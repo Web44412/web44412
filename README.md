@@ -7,7 +7,7 @@
 
 
 ## CONTATOS
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web44412/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web44412/)[![linkedin](https://www.linkedin.com/in/daniel-almeida-49a744b3/)
 
 
 ## 🤖 Linguagens e Tecnologias
