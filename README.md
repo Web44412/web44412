@@ -4,8 +4,6 @@
 - 🔭 Atualmente estou trabalhando em ... Na criação de site
 - 🌱 Atualmente estou aprendendo ... Django e Flask
 - 👯 Estou procurando colaborar em ... react
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: ... instagram
 
 ### 🤖 Linguagens e Tecnologias
