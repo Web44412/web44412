@@ -1,5 +1,5 @@
 ## daniel web4412
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 - 🔭 Atualmente estou trabalhando em ... Na criação de site
 - 🌱 Atualmente estou aprendendo ... Django e Flask
