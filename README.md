@@ -6,6 +6,22 @@
 - 👯 Estou procurando colaborar em ... react
 - 📫 Como entrar em contato comigo: ... instagram
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+     align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+</p>
+
+
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -85,18 +101,6 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-</p>
 
 
 -->
