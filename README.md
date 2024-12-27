@@ -6,9 +6,9 @@
 - 👯 Estou procurando colaborar em ... react
 
 
-### CONTATOS
+## CONTATOS
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
