@@ -1,12 +1,12 @@
 ## daniel web4412
 **`Desenvolvedora FullStack`**
 
-Me chamo Daniel, tenho 29 anos e sou natural do Brasilia. Concluí o ensino médio no cemab, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e compartilho meu conhecimento através no github ", onde ensino a criar projetos web, e também através do Instagram. 
-
-
-      
-  
-
+- 🔭 Atualmente estou trabalhando em ... Na criação de site
+- 🌱 Atualmente estou aprendendo ... Django e Flask
+- 👯 Estou procurando colaborar em ... react
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ... instagram
 
 ### 🤖 Linguagens e Tecnologias
 
