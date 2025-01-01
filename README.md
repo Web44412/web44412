@@ -4,8 +4,7 @@
 - 🔭 Atualmente estou trabalhando em ... Na criação de site
 - 🌱 Atualmente estou aprendendo ... Django e Flask
 - 👯 Sobre mim... 
- Tenho experiência em Wix e Wordpress e também sou um programador de php e javascript , apesar de se novo na plataforma já desenvolvi alguns  site para várias empresas na minha região e busco aumenta a capacidade de desenvolvimento de novos site com novos cliente.
-Também sou programador em Python e faço automação para redes sócias. Também entendo de conceitos de orientação a objetos, incluindo classes, métodos, colaboração e encapsulamento, o que permite construir programas mais organizados e modulares.
+Sou um programador freelancer com experiência em php, javascript e python. Já desenvolvi alguns site,Tenho experiência em Wix e Wordpress,Também entendo de conceitos de orientação a objetos, incluindo classes, métodos, colaboração e encapsulamento, o que permite construir programas mais organizados e modulares.Estou estudado django e flask atualmente
 
 
 ## CONTATOS
