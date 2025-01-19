@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando em ... Na criação de site
 - 🌱 Atualmente estou aprendendo ... Django,Flask e php
 - 👯 Sobre mim... 
-Sou um programador front-end e Estudo ciência da computação . Sou um freelance web designer com experiência em WIX e WORDPRESS e também sou um programador de   JAVASCRIPT , apesar de se novo no mundo da programação já desenvolvi alguns  site para algumas empresas e busco aumenta a capacidade de desenvolvimento com novos  cliente. 
+Sou um programador front-end e Estudo ciência da computação . E um freelance web designer com experiência em WIX e WORDPRESS e também sou um programador de   JAVASCRIPT , apesar de se novo no mundo da programação já desenvolvi alguns  site para algumas empresas e busco aumenta a capacidade de desenvolvimento com novos  cliente. 
 Por fim, programo em Python e faço automação para redes sócias e entendo de conceitos de orientação a objetos, incluindo classes, métodos, colaboração e encapsulamento, o que permite construir programas mais organizados e modulares.
 
 
