@@ -1,7 +1,7 @@
 ## daniel web4412
 **`Desenvolvedor front-end**
 
-- 🔭 Atualmente estou trabalhando em ... Na criação de site
+- 🔭 Atualmente estou trabalhando em ... Na criação de automação
 - 🌱 Atualmente estou aprendendo ... Flask e langchain Fastapi
 - 👯 Sobre mim... 
 Sou um programador de automação e Estudo ciência da computação . E um freelance Um gestor de automação com domínio em Python e n8n possui sólida experiência na análise, modelagem e otimização de processos internos, atuando como ponto central na implementação de soluções que aumentam a eficiência operacional. É responsável por mapear fluxos de trabalho, identificar oportunidades de automação e desenvolver pipelines inteligentes que eliminam tarefas repetitivas. Utiliza Python para criar scripts personalizados, integrar APIs, tratar dados e ampliar a capacidade das automações, garantindo robustez e flexibilidade às soluções.
