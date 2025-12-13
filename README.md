@@ -1,5 +1,5 @@
-## daniel web4412
-**`Desenvolvedor front-end**
+## Etaniel web4412
+**`Desenvolvedor de automação **
 
 - 🔭 Atualmente estou trabalhando em ... Na criação de automação
 - 🌱 Atualmente estou aprendendo ... Flask e langchain Fastapi
