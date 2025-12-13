@@ -2,11 +2,13 @@
 **`Desenvolvedor front-end**
 
 - 🔭 Atualmente estou trabalhando em ... Na criação de site
-- 🌱 Atualmente estou aprendendo ... Flask e php
+- 🌱 Atualmente estou aprendendo ... Flask e langchain Fastapi
 - 👯 Sobre mim... 
-Sou um programador de automação e Estudo ciência da computação . E um freelance web designer com experiência em WIX e WORDPRESS e também sou um programador de   JAVASCRIPT , apesar de se novo no mundo da programação já desenvolvi alguns  site para algumas empresas e busco aumenta a capacidade de desenvolvimento com novos  cliente. 
-Por fim, programo em Python e faço automação para redes sócias e entendo de conceitos de orientação a objetos, incluindo classes, métodos, colaboração e encapsulamento, o que permite construir programas mais organizados e modulares.
+Sou um programador de automação e Estudo ciência da computação . E um freelance Um gestor de automação com domínio em Python e n8n possui sólida experiência na análise, modelagem e otimização de processos internos, atuando como ponto central na implementação de soluções que aumentam a eficiência operacional. É responsável por mapear fluxos de trabalho, identificar oportunidades de automação e desenvolver pipelines inteligentes que eliminam tarefas repetitivas. Utiliza Python para criar scripts personalizados, integrar APIs, tratar dados e ampliar a capacidade das automações, garantindo robustez e flexibilidade às soluções.
 
+Com experiência prática no n8n, esse profissional constrói fluxos visuais altamente estruturados, criando integrações entre sistemas internos, CRMs, ERPs, bancos de dados e ferramentas externas. Atua desde a concepção até a manutenção contínua das automações, monitorando performance, corrigindo falhas e implementando melhorias constantes. Além disso, trabalha alinhado às áreas de tecnologia, operações e negócios, garantindo que as automações atendam às necessidades estratégicas da empresa.
+
+Seu papel envolve também documentação técnica, gestão de prioridades, avaliação de riscos, criação de padrões e disseminação de boas práticas de automação. O gestor combina visão analítica, pensamento sistêmico e habilidades técnicas avançadas para promover inovação, reduzir custos, aumentar produtividade e proporcionar escalabilidade aos processos corporativos.
 
 ## CONTATOS
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web44412/)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-almeida-49a744b3/)
