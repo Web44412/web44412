@@ -11,7 +11,7 @@ Com experiência prática no n8n, sou um profissional que constrói fluxos visua
 Meu papel envolve também documentação técnica, gestão de prioridades, avaliação de riscos, criação de padrões e disseminação de boas práticas de automação. Assim, combina visão analítica, pensamento sistêmico e habilidades técnicas avançadas para promover inovação, reduzir custos, aumentar produtividade e proporcionar escalabilidade aos processos corporativos.
 
 ## CONTATOS
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web44412/)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-almeida-49a744b3/)[![site](https://xn--automatizaotarefas-btb3f.com.br/)]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web44412/)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-almeida-49a744b3/)
 
 
 ## 🤖 Linguagens e Tecnologias
