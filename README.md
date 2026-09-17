@@ -1,5 +1,5 @@
 ## Etaniel web4412
-**`Desenvolvedor**
+**`Desenvolvedor PYTHON**
 
 - 🔭 Atualmente estou trabalhando em ... Na criação de automação
 - 🌱 Atualmente estou aprendendo ... Flask e langchain Fastapi
